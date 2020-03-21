@@ -1,0 +1,53 @@
+OUTPUT FOR FILE1.TXT
+
+Anaphora detected in sentence:-  ['அவன்/PRP', 'மனைவியின்/NN', 'பெயர்/NN', 'Sara/NNP', './SYM']
+the anaphores detected to be resolved are ['அவன்/PRP']
+ Antecedent for 'அவன்/PRP' is :- கிராமம்/NN
+Anaphora detected in sentence:-  ['அவன்/PRP', 'அவ்வப்போது/RB', 'அருகி/RB', 'காட்டிற்குச்/NN', 'சென்று/VM', 'நன்கு/NN', 'விளைந்த/VM', 'மரங்களை/NN', 'வெட்டி/VM', 'வருவான்/VM', './SYM/']
+the anaphores detected to be resolved are ['அவன்/PRP']
+ Antecedent for 'அவன்/PRP' is :- John/NNP
+Anaphora detected in sentence:-  ['அவள்/PRP', 'வீட்டு/NN', 'வேலைகளைக்/NN', 'கூட/PSP', 'சரியாகக்/RB', 'கவனிக்க/VM', 'மாட்டாள்/VAUX', './SYM']
+the anaphores detected to be resolved are ['அவள்/PRP']
+ Antecedent for 'அவள்/PRP' is :- Sara/NNP
+Anaphora detected in sentence:-  ['எப்போதும்/RB', 'முகம்/NN', 'பார்க்கும்VM', 'கண்ணாடி/NN', 'முன்னே/RB', 'அமர்ந்து/VM', 'தன்னை/PRP', 'அலங்கரித்துக்/VM', 'கொண்டிருப்பாள்/RB.']
+the anaphores detected to be resolved are ['தன்னை/PRP']
+ Antecedent for 'தன்னை/PRP' is :- வீட்டு/NN
+Anaphora detected in sentence:-  ['அவன்/PRP', 'அவ்வரங்களின்/NN', 'மூலம்/PSP', 'தன்/PRP', 'வாழ்க்கைக்குத்/NN', 'தேவையான/JJ', 'வற்றைப்/NN', 'பெற/VM', 'நினைத்தான்/VAUX', './SYM', '']
+the anaphores detected to be resolved are ['அவன்/PRP']
+ Antecedent for 'அவன்/PRP' is :- John/NNP
+
+
+OUTPUT FOR FILE2.TXT
+
+Anaphora detected in sentence:-  ['அது/PRP', 'சிறியதாக/RB', 'இருந்தாலும்/CC', 'அழகாக/RB', 'இருந்தது/VM', './SYM']
+the anaphores detected to be resolved are ['அது/PRP']
+ Antecedent for 'அது/PRP' is :- வீட்டில்/NN
+Anaphora detected in sentence:-  ['அவள்/PRP', 'ஓடிவிட்டாள்/VM', './SYM']
+the anaphores detected to be resolved are ['அவள்/PRP']
+ Antecedent for 'அவள்/PRP' is :- Anna/NNP
+Anaphora detected in sentence:-  ['அவர்/PRP', 'தூங்க/VM', 'தன்னை/PRP', 'அழுவார்/VM', './SYM']
+the anaphores detected to be resolved are ['அவர்/PRP']
+ Antecedent for 'அவர்/PRP' is :- John/NNP
+Anaphora detected in sentence:-  ['அவர்/PRP', 'மிகவும்/RB', 'தனிமையாக/RB', 'உணர்ந்தார்/VM', './SYM']
+the anaphores detected to be resolved are ['அவர்/PRP']
+ Antecedent for 'அவர்/PRP' is :- John/NNP
+Anaphora detected in sentence:-  ['ஆனால்/CC', 'மிக/INTF', 'விரைவில்/RB', 'அவர்/PRP', 'Susan/NNP', 'சந்தித்தார்/VM', './SYM']
+the anaphores detected to be resolved are ['அவர்/PRP']
+Anaphora detected in sentence:-  ['ஆனால்/CC', 'மிக/INTF', 'விரைவில்/RB', 'அவர்/PRP', 'Susan/NNP', 'சந்தித்தார்/VM', './SYM']
+the anaphores detected to be resolved are ['அவர்/PRP']
+Anaphora detected in sentence:-  ['அவர்/PRP', 'மிகவும்/RB', 'கனிவான/JJ', 'பெண்/NN', './SYM', '']
+the anaphores detected to be resolved are ['அவர்/PRP']
+Anaphora detected in sentence:-  ['ஆனால்/CC', 'மிக/INTF', 'விரைவில்/RB', 'அவர்/PRP', 'Susan/NNP', 'சந்தித்தார்/VM', './SYM']
+the anaphores detected to be resolved are ['அவர்/PRP']
+Anaphora detected in sentence:-  ['அவர்/PRP', 'மிகவும்/RB', 'கனிவான/JJ', 'பெண்/NN', './SYM', '']
+the anaphores detected to be resolved are ['அவர்/PRP']
+Anaphora detected in sentence:-  ['அவர்/PRP', 'மிகவும்/RB', 'கனிவான/JJ', 'பெண்/NN', './SYM', '']
+the anaphores detected to be resolved are ['அவர்/PRP']
+Anaphora detected in sentence:-  ['அவர்/PRP', 'Susan/NNP', 'காதலித்தார்/VM', './SYM', '']
+the anaphores detected to be resolved are ['அவர்/PRP']
+ Antecedent for 'அவர்/PRP' is :- John/NNP
+Anaphora detected in sentence:-  ['அவள்/PRP', 'அவன்/PRP', 'வீட்டிற்கு/NN', 'மாறினாள்/VM', './SYM', '']
+Anaphora detected in sentence:-  ['அவள்/PRP', 'அவன்/PRP', 'வீட்டிற்கு/NN', 'மாறினாள்/VM', './SYM', '']
+the anaphores detected to be resolved are ['அவள்/PRP', 'அவன்/PRP']
+ Antecedent for 'அவள்/PRP' is :- Susan/NNP
+ Antecedent for 'அவன்/PRP' is :- John/NNP

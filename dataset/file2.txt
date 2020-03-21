@@ -1,0 +1,15 @@
+தொலைவில்/JJ உள்ள/PSP ஒரு/QC வீட்டில்/NN ,/SYM John/NNP மற்றும்/CC Anna/NNP வசித்து/VM வந்தனர்/VAUX ./SYM 
+அது/PRP சிறியதாக/RB இருந்தாலும்/CC அழகாக/RB இருந்தது/VM ./SYM
+John/NNP அவளுடன்/PRP மகிழ்ச்சியாக/RB இருந்தார்/VM ./SYM
+ஆனால்/CC Anna/NNP தன்னை/PRP கண்டுபிடிக்க/VM விரும்பினார்/VAUX ./SYM
+அவள்/PRP ஓடிவிட்டாள்/VM ./SYM
+John/NNP இது/PRP ஒரு/QC சோகமான/JJ நேரம்/NN ./SYM 
+அவர்/PRP தூங்க/VM தன்னை/PRP அழுவார்/VM ./SYM
+அவர்/PRP மிகவும்/RB தனிமையாக/RB உணர்ந்தார்/VM ./SYM
+ஆனால்/CC மிக/INTF விரைவில்/RB அவர்/PRP Susan/NNP சந்தித்தார்/VM ./SYM
+அவர்/PRP மிகவும்/RB கனிவான/JJ பெண்/NN ./SYM 
+John/NNP தன்னை/PRP அண்ணாவை/NN மறக்கச்/RB செய்தார்/VM ./SYM 
+அவர்/PRP Susan/NNP காதலித்தார்/VM ./SYM 
+அவள்/PRP அவன்/PRP வீட்டிற்கு/NN மாறினாள்/VM ./SYM 
+அவரது/PRP பெற்றோர்/NN ஊரில்/NN தனியாக/RB வசித்து/VM வந்தனர்/VM ./SYM 
+அவளுடன்/PRP வாழ/VM அவர்களை/PRP அழைத்தாள்/VM ./SYM
